@@ -1,0 +1,2 @@
+# Apply the standard Flutter code-quality rules.
+include: package:flutter_lints/flutter.yaml
